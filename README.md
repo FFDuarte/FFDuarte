@@ -1,5 +1,7 @@
 Fabricio Fernando;
+
 Desenvolvedor full-stack;
+
 Graduado em Sistemas de Informação;
 
 
