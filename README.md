@@ -1,4 +1,6 @@
-- 👋 Ola, Sou o fabricio Fernando
+- 👋  Ola, Sou o fabricio Fernando
+- 👋  Desenvolvedor Full-stack
+- 👋  Graduado em Sistemas de Informação
 
 
 
