@@ -15,12 +15,12 @@ buscando torná-lo unico, inovador ou apenas ser diferente.
 Tecnologias Utilizadas 
 
 React.js 
-Node.js
-JavaScript
-PHP
-Laravel
-CSS
-Html
+ Node.js
+  JavaScript
+   PHP
+    Laravel
+     CSS
+      Html
 
 
 
