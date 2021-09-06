@@ -17,7 +17,7 @@ Tecnologias Utilizadas
 React.js 
  Node.js
   JavaScript
-   PHP
+   PHP 
     Laravel
      CSS
       Html
