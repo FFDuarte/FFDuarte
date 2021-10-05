@@ -18,8 +18,6 @@ You can click the Preview link to take a look at your changes.
 - React.js
 - Node.js
 - JavaScript
-- PHP
-- Laravel
 - CSS
 - Html
 
