@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+} 
+.rowPrincipal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   
+    background-color: LightSteelBlue;
+}
+
+.teste{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.colInformacoes{
+    width: 70%;
+    margin-left: 2em;
+    margin-top: 0em;
+    
+}
+.testes{
+    display: flex;
+    position:absolute;
+    margin-top: -10em;
+    margin-left: 65em;
+    width: auto;
+}
+.teseee{
+    width: 100%;
+}
+
+.contato{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2em;
+    background-image: url(../src//assetes/contato1.jpg);
+    background-position: center;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin: 4em;
+}
+
+@media (max-width: 960px)   {
+     .rowPrincipal{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+    .testes{
+        margin: 0;
+        display: flex;
+        position:relative;
+    }
+    .contato{
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+    }
+}

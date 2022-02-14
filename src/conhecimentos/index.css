@@ -1,0 +1,41 @@
+.title{
+    margin-left: 1em;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+}
+
+.divStyle{
+    margin: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+   
+}
+.divConteudo{
+    border:  2px solid black;
+    border-radius: 2em;
+    margin: 1em 1em 0 1em;
+}
+.listGroup{
+    margin: 2em 5em 2em 5em;
+    display: flex;
+}
+
+
+
+@media (max-width: 960px)   {
+    .divStyle{
+      
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+}
