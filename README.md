@@ -1,4 +1,4 @@
-Nesse git você encontrara alguns de meus projetos, ideias, acertos e atentivas. Cada criação/projeto que participo ou que realizo tem sua própria identidade, que e o que sempre busco quando estou desenvolvendo algo trazer uma identidade ao projeto, buscando torná-lo único, inovador ou apenas ser diferente.
+Nesse git você encontrara alguns de meus projetos, ideias, acertos e tentivas. Cada criação/projeto que participo ou que realizo tem sua própria identidade, que e o que sempre busco quando estou desenvolvendo algo trazer uma identidade ao projeto, buscando torná-lo único, inovador ou apenas ser diferente.
 
 Tecnologias Utilizadas
 
