@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=FFduarte%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=FFDuarte%20&fontAlignY=40&color=gradient)
 ### Ei! Bem vindo ao meu GitHub 👋
 Aqui você terá acesso aos meus projetos e minha linha do tempo de aprendizado!
 
