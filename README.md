@@ -23,8 +23,9 @@ Essas são as principais tecnologias que venho usando em meus projetos, trabalho
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffduarte&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffduarte)](https://github.com/FFDuarte/github-readme-stats)
 
-
+<br>
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mysql,mongodb,supabase,docker,heroku,git,github,jest,bash)](https://skillicons.dev)
