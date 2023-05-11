@@ -13,9 +13,9 @@ Html
 
 Essas são as principais tecnologias que venho usando em meus projetos, trabalhos e estudos, pode aparecer outras com o tempo, pois estou sempre em busca de novidades. Como a tecnologia não para e cada dia surge novas coisas, o futuro e inserto e resta apenas esperar o que ele tem a oferecer.
 
-![Anurag's GitHub stats](https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-will-FFDuarte.vercel.app/api?username=FFDuarte&count_private=true&show_icons=true&theme=transparent)
 <br>
-[![Top Langs](https://github-readme-stats-will-willianbatist.vercel.app/api/top-langs/?username=willianbatist&layout=compact&theme=transparent)](https://github.com/willianbatist)
+[![Top Langs](https://github-readme-stats-will-FFDuarte.vercel.app/api/top-langs/?username=FFDuarte&layout=compact&theme=transparent)](https://github.com/FFDuarte)
 
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mysql,mongodb,supabase,docker,heroku,git,github,jest,bash)](https://skillicons.dev)
