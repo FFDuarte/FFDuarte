@@ -19,13 +19,11 @@ Mais infos meu [linkedin](https://www.linkedin.com/in/abricio-fernando-136321125
 Essas são as principais tecnologias que venho usando em meus projetos, trabalhos e estudos, pode aparecer outras com o tempo, pois estou sempre em busca de novidades. Como a tecnologia não para e cada dia surge novas coisas, o futuro e inserto e resta apenas esperar o que ele tem a oferecer.
 
 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffduarte&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffduarte)](https://github.com/FFDuarte/github-readme-stats)
-
 <br>
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mysql,mongodb,supabase,docker,heroku,git,github,jest,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mysql,mongodb,heroku,git,github,bash)](https://skillicons.dev)
+
+
