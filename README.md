@@ -8,6 +8,8 @@ Atuo como Dev Full Stack porem tenho um foco maior em Front End
 
 Graduado em Sistemas de Informação
 
+🛠️ Criador da Ffsolutec -> https://ffsolutec.com
+
 🛠️ Estou trabalhando em projetos todos os dias, participando de eventos e mantendo meus conhecimentos atualizados. 
 Nesse git você encontrara alguns de meus projetos, ideias, acertos e tentivas. Cada criação/projeto que participo ou que realizo tem sua própria identidade, que e o que sempre busco quando estou desenvolvendo algo trazer uma identidade ao projeto, buscando torná-lo único, inovador.
 Mais infos meu [linkedin](https://www.linkedin.com/in/abricio-fernando-136321125/) e [GitHub](https://github.com/FFDuarte?tab=repositories).
